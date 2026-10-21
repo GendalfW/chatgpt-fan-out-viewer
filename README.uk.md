@@ -1,6 +1,6 @@
 # ChatGPT Fan-Out Viewer
 
-[English](README.md) · [Як опублікувати на GitHub](GITHUB_SETUP.uk.md)
+[English](README.md)
 
 Tampermonkey-скрипт без залежностей для відображення рядків пошукових запитів, знайдених у доступних браузеру `fetch`-відповідях ChatGPT. Допомагає досліджувати переписування запитів і видиму частину search fan-out.
 
