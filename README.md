@@ -81,7 +81,6 @@ These dependency-free synthetic checks cover extraction, deduplication, streamed
 | --- | --- |
 | `ChatGPT-Fan-Out-Viewer.user.js` | Installable script |
 | `README.md`, `README.uk.md` | English and Ukrainian documentation |
-| `GITHUB_SETUP.uk.md` | Publishing and update instructions |
 | `PRIVACY.md` | Data handling and permissions |
 | `CHANGELOG.md` | Release history |
 | `LICENSE` | MIT license |
