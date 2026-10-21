@@ -1,6 +1,6 @@
 # ChatGPT Fan-Out Viewer
 
-[Українською](README.uk.md) · [Publishing guide / Як опублікувати](GITHUB_SETUP.uk.md)
+[Українською](README.uk.md) 
 
 A dependency-free Tampermonkey userscript that displays search-query strings found in ChatGPT's browser-visible `fetch` responses. Useful for exploring query rewriting and observable search fan-out.
 
